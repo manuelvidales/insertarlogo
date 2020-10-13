@@ -24,5 +24,6 @@ Script para automatizar la inserccion de un logo a varias imagenes localizadas e
 
 
 <p align="center"><img src="https://github.com/manuelvidales/insertarlogo/blob/main/imagenes/imagen_01.png" width="580"></p>
+<p align="center"><img src="https://github.com/manuelvidales/insertarlogo/blob/main/imagenes/imagen_01.png" width="380"></p>
 
 
