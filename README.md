@@ -25,8 +25,7 @@ Script para automatizar la inserccion de un logo a varias imagenes localizadas e
 
 
 -Abrimos la terminal y nos posicionamos en la carpeta principal y ejecutamos el comando.
-
-	~~~
+    ~~~
     ​$ python3 logos.py
     ~~~
 
@@ -37,11 +36,11 @@ Al utilizar este comando vamos a ver que suceden 2 cosas.
     1. Nos pide que escribamos el nombre de la carpeta que tiene nuestras imágenes.
     2. la segunda es que automáticamente hace una carpeta “imágenes con logotipo” en el directorio actual
 
-- Escribimos el nombre de la carpeta y damos enter. 
-- Después nos va a pedir otro dato:
-	Tamaño de logotipo en porcentaje. 
-		--Tenemos que poner de 1 a 100% de que tamaño queremos que aparezca el logotipo.  
-		--Elegimos un valor de tamaño y damos Enter. 
+#Escribimos el nombre de la carpeta y damos enter. 
+#Después nos va a pedir otro dato:
+##Tamaño de logotipo en porcentaje. 
+###Tenemos que poner de 1 a 100% de que tamaño queremos que aparezca el logotipo.  
+###Elegimos un valor de tamaño y damos Enter. 
 
 <p align="center"><img src="https://github.com/manuelvidales/insertarlogo/blob/main/tuto/step02.png" width="460"></p>
 
