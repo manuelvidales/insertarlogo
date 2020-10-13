@@ -24,33 +24,34 @@ Script para automatizar la inserccion de un logo a varias imagenes localizadas e
     3.-El logo en formato .png.
 
 
--Abrimos la terminal y nos posicionamos en la carpeta principal y ejecutamos el comando.
+- Abrimos la terminal y nos posicionamos en la carpeta principal y ejecutamos el comando.
     ~~~
     ​$ python3 logos.py
     ~~~
 
 ![This is a alt text.](/tuto/step01.png "imagen de ejemplo.")
 
-Al utilizar este comando vamos a ver que suceden 2 cosas.
+- Al utilizar este comando vamos a ver que suceden 2 cosas.
 
     1. Nos pide que escribamos el nombre de la carpeta que tiene nuestras imágenes.
     2. la segunda es que automáticamente hace una carpeta “imágenes con logotipo” en el directorio actual
 
-### Escribimos el nombre de la carpeta y damos enter.
-### Después nos va a pedir otro dato:
-###### Tamaño de logotipo en porcentaje.
-
-###### Tenemos que poner de 1 a 100% de que tamaño queremos que aparezca el logotipo.
-###### Elegimos un valor de tamaño y damos Enter.
+- Escribimos el nombre de la carpeta y damos enter.
+- Después nos va a pedir otro dato:
+- Tamaño de logotipo en porcentaje.
+	~~~
+	Tenemos que poner de 1 a 100% de que tamaño queremos que aparezca el logotipo.
+	Elegimos un valor de tamaño y damos Enter.
+	~~~
 
 ![This is a alt text.](/tuto/step02.png "imagen de ejemplo.")
 
-Nos va mostrar que esta procesando las imágenes y al final nos indica que todas las imágenes fueron procesadas con éxito.
+- Nos va mostrar que esta procesando las imágenes y al final nos indica que todas las imágenes fueron procesadas con éxito.
 
 ![This is a alt text.](/tuto/step03.png "imagen de ejemplo.")
 
 
-Al final tenemos el resultado:
+- Al final tenemos el resultado:
 
-![This is a alt text.](/imagenes/imagen_01.png "imagen de ejemplo") ![This is a alt text.](/tuto/demo.png "imagen de ejemplo.")
+<p align="center"><img src="/imagenes/imagen_01.png" width="480"><img src="/tuto/demo.png" width="480"></p>
 
