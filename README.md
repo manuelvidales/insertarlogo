@@ -53,5 +53,5 @@ Script para automatizar la inserccion de un logo a varias imagenes localizadas e
 
 - Al final tenemos el resultado:
 
-<p align="center"><img src="/imagenes/imagen_01.png" width="480"><img src="/tuto/demo.png" width="480"></p>
+<p align="center"><img src="/imagenes/imagen_01.png" width="460"> <img src="/tuto/demo.png" width="460"></p>
 
