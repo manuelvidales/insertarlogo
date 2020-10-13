@@ -29,7 +29,7 @@ Script para automatizar la inserccion de un logo a varias imagenes localizadas e
     ​$ python3 logos.py
     ~~~
 
-<p align="center"><img src="https://github.com/manuelvidales/insertarlogo/blob/main/tuto/step01.png" width="460"></p>
+<p align="center">![This is a alt text.](/tuto/step01.png "imagen de ejemplo")</p>
 
 Al utilizar este comando vamos a ver que suceden 2 cosas.
 
@@ -43,16 +43,14 @@ Al utilizar este comando vamos a ver que suceden 2 cosas.
 ###### Tenemos que poner de 1 a 100% de que tamaño queremos que aparezca el logotipo.
 ###### Elegimos un valor de tamaño y damos Enter.
 
-<p align="center"><img src="https://github.com/manuelvidales/insertarlogo/blob/main/tuto/step02.png" width="460"></p>
+<p align="center">![This is a alt text.](/tuto/step02.png "imagen de ejemplo")</p>
 
 Nos va mostrar que esta procesando las imágenes y al final nos indica que todas las imágenes fueron procesadas con éxito.
 
-<p align="center"><img src="https://github.com/manuelvidales/insertarlogo/blob/main/tuto/step03.png" width="460"></p>
-
-![This is a alt text.](/tuto/step03.png "This is a sample image.")
+<p align="center">![This is a alt text.](/tuto/step03.png "imagen de ejemplo")</p>
 
 
 Al final tenemos el resultado:
 
-<p align="center"><img src="https://github.com/manuelvidales/insertarlogo/blob/main/imagenes/imagen_01.png" width="340"> <img src="https://github.com/manuelvidales/insertarlogo/blob/main/tuto/demo.png" width="340"></p>
+<p align="center">![This is a alt text.](/imagenes/imagen_01.png "imagen de ejemplo") ![This is a alt text.](/tuto/demo.png "imagen de ejemplo")</p>
 
