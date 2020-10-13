@@ -6,6 +6,7 @@ Script para automatizar la inserccion de un logo a varias imagenes localizadas e
 
 ## Requerimientos 
 
+- Python 3
 - [Requiere la libreria Pillow](https://pypi.org/project/Pillow/)
 
 
@@ -18,12 +19,12 @@ Script para automatizar la inserccion de un logo a varias imagenes localizadas e
 
 ## Conocimiento
 
-1- Descarga el archivo de python (logos.py)
-2- Carpeta con las imágenes a las que se van a insertar el logo
-3- El logo en formato .png
+    - 1.-Descargar el archivo de python (logos.py).
+    - 2.-Carpeta con las imágenes para insertar el logo.
+    - 3.-El logo en formato .png.
 
 
-<p align="center"><img src="https://github.com/manuelvidales/insertarlogo/blob/main/imagenes/imagen_01.png" width="580"></p>
-<p align="center"><img src="https://github.com/manuelvidales/insertarlogo/blob/main/imagenes/imagen_01.png" width="380"></p>
+
+<p align="center"><img src="https://github.com/manuelvidales/insertarlogo/blob/main/imagenes/imagen_01.png" width="340"></p>
 
 
